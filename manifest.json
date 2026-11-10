@@ -1,11 +1,19 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "date": "2026-11-10",
-  "title": "Bigger finds",
+  "title": "Leaderboards!",
   "notes": [
-    "Your finds are bigger when you roll 1x, 2x or 5x. 10x stays the same so everything fits."
+    "New Ranks page with 5 online leaderboards: Rolls, Rebirths, Hearts, Stars and Hours played.",
+    "Click anyone on a leaderboard to see their profile, stats and rarest find.",
+    "Get into the top 3 on any board to earn a gold, silver or bronze badge. #1 players get a Champion banner.",
+    "Your badges and your rank on every board show on your Profile page. You can hide yourself from the leaderboards there too."
   ],
   "files": [
+    {
+      "path": "dist/assets/browser-BarNZhph.js",
+      "sha256": "e1a7e892460dbffcd249769e99c45c85121c893e8d697326070aa9498288b634",
+      "size": 565
+    },
     {
       "path": "dist/assets/fredoka-hebrew-400-normal-6ww4GUWF.woff",
       "sha256": "e41c938bd1dd4985227fce260545f23024273f116c801e566a013e834bad128e",
@@ -87,14 +95,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-BFpPZQJX.css",
-      "sha256": "60f9576de1ece1d202fa1aa57f959d6a27d15b3b3f2020adb85a780964af1a33",
-      "size": 82199
+      "path": "dist/assets/index-BY3UR0rz.js",
+      "sha256": "ca049006e10492a584bf46e79221dba08a09d291159a0106847309b8c16ce05e",
+      "size": 789582
     },
     {
-      "path": "dist/assets/index-D8P4v6l7.js",
-      "sha256": "d0d2c25a66c7dac90c5e9364f06b0df828cdc02baa514ac3194edd8665155cc1",
-      "size": 667978
+      "path": "dist/assets/index-xAAXGuvH.css",
+      "sha256": "3a5e3abe3da98bcfa0ce8ef09fa8ff0083fe6892e9bae9ba9cc036b255007a17",
+      "size": 82459
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -348,8 +356,8 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "8dac024fcac22613d2c23462c545b80ebeca11e6b751577688b64912ef672c12",
-      "size": 577
+      "sha256": "cb67c70eb4b817610e08716db8cdcb43e02650ad2369f042c35447c2a8af6599",
+      "size": 675
     },
     {
       "path": "dist-electron/bootstrap.js",
