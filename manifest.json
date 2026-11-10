@@ -1,14 +1,12 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "date": "2026-11-10",
-  "title": "Shiny versions, weather and lucky rolls",
+  "title": "New inventory and more Lola",
   "notes": [
-    "Anything you roll can now come out Shiny (1 in 58), Golden (1 in 500) or Rainbow (1 in 5,000). They get their own colours, sparkle and bonus hearts.",
-    "Click any item in your Collection to see its Shiny, Golden and Rainbow versions. There's a new tab for them too.",
-    "Worlds get weather now. Every so often there's Rainbow Rain (×2 luck), Star Shower, Sparkle Snow or, very rarely, a Plush Breeze. It lasts 5 minutes and shows at the top.",
-    "Every 1,000th roll is guaranteed Epic or better. The counter is under the Roll button.",
-    "Auto-roll can now keep going forever. Turn on Never stop next to the Auto-roll button, or pick it in Settings.",
-    "5 new achievements."
+    "Fixed item popups flickering (showing, vanishing, then coming back) when you click something.",
+    "The Inventory got a redo: items are on shelves by rarity, tiles show what they sell for and which special versions you have, and there's a Sell extras menu.",
+    "New setting: Skip find animations. Pick a rarity and anything at or below it lands right away with no big reveal. You still get a popup for big finds.",
+    "Lola now hangs out in the corner. She says hi on each page, reacts to big finds and weather, tells you when a quest is done, and naps if you leave her alone. Click her for tips. You can turn her chatting off in Settings."
   ],
   "files": [
     {
@@ -92,14 +90,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-BIw382js.css",
-      "sha256": "379725b07b097ebc0d1228128fb3344a37bb7047a0e93d0c7468a1e57bc7d457",
-      "size": 77948
+      "path": "dist/assets/index-CVDE17c-.js",
+      "sha256": "b81154e77b903c1ddd2d2cfe70d89164a9ff66f02b406f04dcdb335870d4fea9",
+      "size": 615870
     },
     {
-      "path": "dist/assets/index-Cxf7PDpr.js",
-      "sha256": "4ddf5b6b40d00c1c4971cb64121297b9b339c7025f17188314beffca739f4cd1",
-      "size": 601496
+      "path": "dist/assets/index-DJfC8eIh.css",
+      "sha256": "340986952c6308cbf6e03d94ad72aaea7151386c78fc894a8ca681e75856f010",
+      "size": 79128
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -353,7 +351,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "483f34d1eeb2fb17aedf5c9042723d3a9d8675984b7270977008ef4cfbc54d3b",
+      "sha256": "7db2836eeb39bb9150f12a424f8068d9968c51d49ea5489092eac45ef8ad292e",
       "size": 577
     },
     {
