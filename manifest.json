@@ -1,9 +1,9 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "date": "2026-11-10",
-  "title": "Small window fix",
+  "title": "Small fix",
   "notes": [
-    "Rolling 5x or 10x in a smaller window now shrinks the results to fit, so you can see all of them."
+    "Fixed some items showing as Golden Golden in Recent finds."
   ],
   "files": [
     {
@@ -87,9 +87,9 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-D0PcW61r.js",
-      "sha256": "be2b39fbe0ef0d320f09a7c74ca2b50501a4e898206f093db6dde129e619549b",
-      "size": 616645
+      "path": "dist/assets/index-BXzecouU.js",
+      "sha256": "a290095a0f0130009dc448ecbe089cb465b094f27b8b6cf2946f3b707a1a967c",
+      "size": 616809
     },
     {
       "path": "dist/assets/index-DJfC8eIh.css",
@@ -348,7 +348,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "af650ab7daf8e18271524bd07f56ffa3af5dace365db89c8a8f623d5ca6767c4",
+      "sha256": "47a11fc11d5a48b38f21110258a9f615ff2bc5da8c99f1fd010c570ae7f521f6",
       "size": 577
     },
     {
