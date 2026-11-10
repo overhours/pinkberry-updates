@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "date": "2026-11-10",
-  "title": "Skip setting covers card flips",
+  "title": "Bigger finds",
   "notes": [
-    "Skip find animations now also skips the card flips. Anything at or below the rarity you picked lands face-up right away, and anything rarer still flips and gets its full reveal."
+    "Your finds are bigger when you roll 1x, 2x or 5x. 10x stays the same so everything fits."
   ],
   "files": [
     {
@@ -87,14 +87,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-CCjuSg9n.css",
-      "sha256": "d5b3d759468459b0384f69d1f2ebdfa24765c7f648db6686128fa7fa763fdcce",
-      "size": 82158
+      "path": "dist/assets/index-BFpPZQJX.css",
+      "sha256": "60f9576de1ece1d202fa1aa57f959d6a27d15b3b3f2020adb85a780964af1a33",
+      "size": 82199
     },
     {
-      "path": "dist/assets/index-Dhv17HAK.js",
-      "sha256": "fd24669aaeb7aef567c50fc8c669351b2fb9806ff50a2a9e8329450670ed7c36",
-      "size": 667592
+      "path": "dist/assets/index-D8P4v6l7.js",
+      "sha256": "d0d2c25a66c7dac90c5e9364f06b0df828cdc02baa514ac3194edd8665155cc1",
+      "size": 667978
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -348,7 +348,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "44669d19d92e2272da5f4af74d45a6eef86b3f110116a00c0ef18cec6477b2d4",
+      "sha256": "8dac024fcac22613d2c23462c545b80ebeca11e6b751577688b64912ef672c12",
       "size": 577
     },
     {
