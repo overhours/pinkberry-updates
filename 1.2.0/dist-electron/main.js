@@ -9,6 +9,7 @@ const node_path_1 = __importDefault(require("node:path"));
 const node_os_1 = __importDefault(require("node:os"));
 const saves_1 = require("./saves");
 const updater_1 = require("./updater");
+const feed_1 = require("./feed");
 const isDev = !!process.env.VITE_DEV_SERVER_URL;
 let win = null;
 let store;
@@ -17,8 +18,8 @@ let allowClose = false;
 /** The running game version (an installed update may be newer than the installer). */
 const APP_VERSION = process.env.PINKBERRY_VERSION || electron_1.app.getVersion();
 /**
- * Where updates are published. Defaults to a local "Pinkberry Updates" folder in the user's home;
- * can be pointed at a folder or https URL via userData/updates/feed.txt or PINKBERRY_UPDATE_FEED.
+ * Where updates come from: PINKBERRY_UPDATE_FEED, then userData/updates/feed.txt (folder or https URL),
+ * then the GitHub feed built into the game, then a local "Pinkberry Updates" folder.
  */
 function updateFeed() {
     if (process.env.PINKBERRY_UPDATE_FEED)
@@ -31,6 +32,8 @@ function updateFeed() {
     catch {
         /* default */
     }
+    if (feed_1.UPDATE_FEED)
+        return feed_1.UPDATE_FEED;
     return node_path_1.default.join(node_os_1.default.homedir(), 'Pinkberry Updates');
 }
 if (!electron_1.app.requestSingleInstanceLock()) {

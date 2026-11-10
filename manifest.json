@@ -1,9 +1,14 @@
 {
-  "version": "1.1.2",
+  "version": "1.2.0",
   "date": "2026-11-10",
-  "title": "Updates work everywhere",
+  "title": "Shiny versions, weather and lucky rolls",
   "notes": [
-    "Updates now download from the internet, so they show up on every computer, not just one."
+    "Anything you roll can now come out Shiny (1 in 58), Golden (1 in 500) or Rainbow (1 in 5,000). They get their own colours, sparkle and bonus hearts.",
+    "Click any item in your Collection to see its Shiny, Golden and Rainbow versions. There's a new tab for them too.",
+    "Worlds get weather now. Every so often there's Rainbow Rain (×2 luck), Star Shower, Sparkle Snow or, very rarely, a Plush Breeze. It lasts 5 minutes and shows at the top.",
+    "Every 1,000th roll is guaranteed Epic or better. The counter is under the Roll button.",
+    "Auto-roll can now keep going forever. Turn on Never stop next to the Auto-roll button, or pick it in Settings.",
+    "5 new achievements."
   ],
   "files": [
     {
@@ -87,14 +92,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-BhoUD3Lo.js",
-      "sha256": "feed6a4413b5662b50bd53c24beede7881d6be2c3ab597ba873f4f5b02a3cc14",
-      "size": 585438
+      "path": "dist/assets/index-BIw382js.css",
+      "sha256": "379725b07b097ebc0d1228128fb3344a37bb7047a0e93d0c7468a1e57bc7d457",
+      "size": 77948
     },
     {
-      "path": "dist/assets/index-Cj97C7J6.css",
-      "sha256": "b1cbf9ddf81fa840030332f66e0f3d176e1df7b007e5ea8c06852371dc08d3c2",
-      "size": 76610
+      "path": "dist/assets/index-Cxf7PDpr.js",
+      "sha256": "4ddf5b6b40d00c1c4971cb64121297b9b339c7025f17188314beffca739f4cd1",
+      "size": 601496
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -348,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "c1868a33baf559c82a7ef31bb969e4c077b5c331461539bdf088c8f52f16d28b",
+      "sha256": "483f34d1eeb2fb17aedf5c9042723d3a9d8675984b7270977008ef4cfbc54d3b",
       "size": 577
     },
     {
