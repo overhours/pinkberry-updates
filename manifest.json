@@ -1,12 +1,9 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "date": "2026-11-10",
-  "title": "New inventory and more Lola",
+  "title": "Roll page stays the same size",
   "notes": [
-    "Fixed item popups flickering (showing, vanishing, then coming back) when you click something.",
-    "The Inventory got a redo: items are on shelves by rarity, tiles show what they sell for and which special versions you have, and there's a Sell extras menu.",
-    "New setting: Skip find animations. Pick a rarity and anything at or below it lands right away with no big reveal. You still get a popup for big finds.",
-    "Lola now hangs out in the corner. She says hi on each page, reacts to big finds and weather, tells you when a quest is done, and naps if you leave her alone. Click her for tips. You can turn her chatting off in Settings."
+    "The roll area no longer grows when you roll 2x, 5x or 10x. Every result card is the same size too."
   ],
   "files": [
     {
@@ -90,9 +87,9 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-CVDE17c-.js",
-      "sha256": "b81154e77b903c1ddd2d2cfe70d89164a9ff66f02b406f04dcdb335870d4fea9",
-      "size": 615870
+      "path": "dist/assets/index-CNAvVrhV.js",
+      "sha256": "6e948d5c7a617d57caaf82478bff450975e3a7c7bfb289b4707386354841d747",
+      "size": 616057
     },
     {
       "path": "dist/assets/index-DJfC8eIh.css",
@@ -351,7 +348,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "7db2836eeb39bb9150f12a424f8068d9968c51d49ea5489092eac45ef8ad292e",
+      "sha256": "a3037a5d12dbc2db9ef24bc9ca7a995320188879c3090de37e48d4ebd928624b",
       "size": 577
     },
     {
