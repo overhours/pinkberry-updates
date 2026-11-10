@@ -1,0 +1,385 @@
+{
+  "version": "1.1.2",
+  "date": "2026-11-10",
+  "title": "Updates work everywhere",
+  "notes": [
+    "Updates now download from the internet, so they show up on every computer, not just one."
+  ],
+  "files": [
+    {
+      "path": "dist/assets/fredoka-hebrew-400-normal-6ww4GUWF.woff",
+      "sha256": "e41c938bd1dd4985227fce260545f23024273f116c801e566a013e834bad128e",
+      "size": 6368
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-400-normal-xVMWGw2n.woff2",
+      "sha256": "a553d16626bbf92655cb33f2452f4928ec773401331c4c399d532a8f3276ef13",
+      "size": 5056
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-500-normal-BkmgaUC6.woff",
+      "sha256": "0ec3eb824ec40c8a276ac663db91621a96e8f2818bc78983da596b0bd6d1b889",
+      "size": 6352
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-500-normal-C-43HJEL.woff2",
+      "sha256": "e5a12f040cc924032e7fb0e2dfd48a16178b3dae7fad52c8e98e6da9fb79252c",
+      "size": 5060
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-600-normal-BZiedFx_.woff2",
+      "sha256": "27a22f607801943a25b2f68cb435696202b0e9ea9778cb5af95d96b185441583",
+      "size": 5116
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-600-normal-D7ibDxz9.woff",
+      "sha256": "535e90b4eb81cfa39b58575f432fc05317c0f419f3fc6e57162c549832d93c19",
+      "size": 6376
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-700-normal-BaTRyEvH.woff2",
+      "sha256": "cefaa1ff50ff8a579246f966f5c4d2c2256cc94fa099065c9310b147135d32cf",
+      "size": 4940
+    },
+    {
+      "path": "dist/assets/fredoka-hebrew-700-normal-BGoymfEg.woff",
+      "sha256": "ff6e03401dc633e359835dec4280b8976bdccab8c9e40c1f3220fe7d4083ab58",
+      "size": 6348
+    },
+    {
+      "path": "dist/assets/fredoka-latin-400-normal-B8TQw2o8.woff",
+      "sha256": "ecf2a62cec3f52f6055cf488b0f8186af77fc61b216e048043c16442e939a8a1",
+      "size": 19704
+    },
+    {
+      "path": "dist/assets/fredoka-latin-400-normal-BeHatrkI.woff2",
+      "sha256": "1f8879f44dfba5afd306f63440d123a7ae907a042dd4963212d26d61e4c0424b",
+      "size": 15720
+    },
+    {
+      "path": "dist/assets/fredoka-latin-500-normal-BpYxueJ9.woff2",
+      "sha256": "191b1640dc56ee0662d252131bdfcfaa177769527b3ce9ac2aff3b673b3760d0",
+      "size": 15800
+    },
+    {
+      "path": "dist/assets/fredoka-latin-500-normal-CFGu1_I7.woff",
+      "sha256": "4e1f3debb2204ede9d852797d49c657962d53abe37421de8e4f8a2cfe78cf180",
+      "size": 19792
+    },
+    {
+      "path": "dist/assets/fredoka-latin-600-normal-B9cSA6FN.woff2",
+      "sha256": "22fb9018a5f785ffc9fc8612032e29883ee53142394bd74c486ceffccedf8247",
+      "size": 16012
+    },
+    {
+      "path": "dist/assets/fredoka-latin-600-normal-BWb_nMI2.woff",
+      "sha256": "d1151c93de28554963d4ccbc94f4d7421fb3c1cc128cfc561f4ffda4beb8d5da",
+      "size": 19948
+    },
+    {
+      "path": "dist/assets/fredoka-latin-700-normal-BTS4rgSY.woff",
+      "sha256": "cedcb3cbb2e9dba8277b334a5a94a6d710459f02d7b8d05bd6ade954679c6e6c",
+      "size": 19344
+    },
+    {
+      "path": "dist/assets/fredoka-latin-700-normal-ChT1xxR0.woff2",
+      "sha256": "de9b5e7fc840595b2bcd87a5df83fe94e6fabc8aae7352180da72114971a6cde",
+      "size": 15456
+    },
+    {
+      "path": "dist/assets/index-BhoUD3Lo.js",
+      "sha256": "feed6a4413b5662b50bd53c24beede7881d6be2c3ab597ba873f4f5b02a3cc14",
+      "size": 585438
+    },
+    {
+      "path": "dist/assets/index-Cj97C7J6.css",
+      "sha256": "b1cbf9ddf81fa840030332f66e0f3d176e1df7b007e5ea8c06852371dc08d3c2",
+      "size": 76610
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
+      "sha256": "5a515dec1886c48b6754ce1bceaaccc8dc01ba5097b114611f2ffcff480defeb",
+      "size": 8320
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-400-normal-hvcJLrVW.woff",
+      "sha256": "185614e69e38cc0f1335f132892ad0766528b0ce85a82dd9932ba8a87bf8725e",
+      "size": 10504
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-600-normal-Dsb0KIbQ.woff2",
+      "sha256": "1dd6285bf890238f417b0217dea00545e54265ae40ca13aba340617d2544d86d",
+      "size": 8476
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-600-normal-DUPmrviy.woff",
+      "sha256": "9c77d4cd66f5e63506441c421d44e66935f6c6a1837b270a3ad94dc825386a81",
+      "size": 10592
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-700-normal-C2ZPAHu5.woff2",
+      "sha256": "d0b58156264afae55722b996c67d30094cb86ee87df7a2412353a9ca0f525133",
+      "size": 8436
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-700-normal-CY6xiUxZ.woff",
+      "sha256": "eb3f3ce9f00f34c4edc4543b5dfa6cc58f29b73ee056c4f34e3c1cbf5c0093fb",
+      "size": 10444
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-800-normal-CVwOhqah.woff",
+      "sha256": "d986542cbc9dc511ebd1366c7d5713ac5263b907b458a74b687bbd66f4ad17d8",
+      "size": 10504
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-800-normal-D2lWpltj.woff2",
+      "sha256": "2d540ea9664a8388aedabc704734fda775cef0e631d6a8584b349e325f841462",
+      "size": 8424
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-400-normal-CiC2fk4J.woff2",
+      "sha256": "56419706a953e8af5ff33b197d655a42513e898d72a4de4722897a7ac08c3d45",
+      "size": 11052
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-400-normal-CUrc3HHF.woff",
+      "sha256": "b29f20502c68c45fe8990531f0be5c023d7a1a0a2a5b06f25322560064402e30",
+      "size": 14364
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-600-normal-Bdkf1mcJ.woff",
+      "sha256": "f074c56dff1798655885637b70170942ee30c26e24c9ee99a5186d97f5abdf6f",
+      "size": 14356
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-600-normal-CUdkD46p.woff2",
+      "sha256": "4e3e3e8cccbea629cd472ba03c335215d8581e6bf77ed3c6deea7e2f94043e12",
+      "size": 11160
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-700-normal-Cgrooa9T.woff2",
+      "sha256": "22eb8fee91307841f7588202c5c11720fc175ad816f6d5f4b9276af012a79cee",
+      "size": 10884
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-700-normal-D-e9fzlR.woff",
+      "sha256": "d2639de129d1d7bb9e14a0fd5cafc1406c633ef86cde749af79a19f27b6d70b7",
+      "size": 14120
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-800-normal-FW_Opv2h.woff",
+      "sha256": "a4d653fcc16eabcf9d3b2b5bd981ce531aabe0ba683949f7fce7c04f066fdd58",
+      "size": 14324
+    },
+    {
+      "path": "dist/assets/nunito-cyrillic-ext-800-normal-VzZ8Mv27.woff2",
+      "sha256": "f94c36d658ced40e764fbe8d54802edc75e7fa9c7b29f29f8495de0bee082e52",
+      "size": 11256
+    },
+    {
+      "path": "dist/assets/nunito-latin-400-normal-CA33qtOw.woff2",
+      "sha256": "923963e0a56b84c4438f2359121e855e147a01a78a2591c471179cfc9bf0e784",
+      "size": 16292
+    },
+    {
+      "path": "dist/assets/nunito-latin-400-normal-nExtXIcZ.woff",
+      "sha256": "3fe2d4e3219c40bca522d521216e4c00f0dcaab97fc0783eaa53c71f6437ea10",
+      "size": 20524
+    },
+    {
+      "path": "dist/assets/nunito-latin-600-normal-BIldxhQs.woff",
+      "sha256": "5968b15b2581052d3c312407bb17480e73382b6a22576cec66818c64fba0447a",
+      "size": 20672
+    },
+    {
+      "path": "dist/assets/nunito-latin-600-normal-BupoeBnc.woff2",
+      "sha256": "72f4dad9076ee652f90406ad66b457b11fce8de23bcccf06ceb95b1e1c66a5dc",
+      "size": 16540
+    },
+    {
+      "path": "dist/assets/nunito-latin-700-normal-C5gyHyFo.woff",
+      "sha256": "8be340c1bf34685c611e7740a7aa0f76ad91b76632a6c8589935a8146894d05d",
+      "size": 20192
+    },
+    {
+      "path": "dist/assets/nunito-latin-700-normal-CGDVIs8t.woff2",
+      "sha256": "391d904f3fd470031d9207a2dcece3b27f63be28ec5b2a0a0ee759948705c3bf",
+      "size": 16312
+    },
+    {
+      "path": "dist/assets/nunito-latin-800-normal-BQmuGLSm.woff2",
+      "sha256": "5b6eb685c75677d9dab957b198d7f19ec9a1d34b378fbd440885c080a5ca6b53",
+      "size": 16488
+    },
+    {
+      "path": "dist/assets/nunito-latin-800-normal-DGg9yqR-.woff",
+      "sha256": "73b481325be55ceb7dda601ddc12463f6e868c83228a5577a0da1aee03ac9ae8",
+      "size": 20548
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-400-normal-DZILPSLY.woff",
+      "sha256": "092bf1c1861ce88d1ff2948b8df9dba3d5c39e7cac66c4267b2a72b9f194c207",
+      "size": 21068
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-400-normal-Z5e_fnxp.woff2",
+      "sha256": "abbae35c19866c1eb3685f586ac963ccc26a16ec06713ba6261c764ea2362294",
+      "size": 15452
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-600-normal-BWgzGCiU.woff",
+      "sha256": "e44dcb25edd154779c0ca88bf3226fcf7eaf53ac407fad65a3f7100acf3ff008",
+      "size": 21088
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-600-normal-DlbCnAWH.woff2",
+      "sha256": "dc7500d319bd625cdf34bfb897600532c53ff755aae2e44f103e18fb921f7249",
+      "size": 15560
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-700-normal-DwQwRZln.woff2",
+      "sha256": "fd89aca770f5bcd38f493e3593da476644c612326f448392e5647a80fd98b723",
+      "size": 15388
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-700-normal-G8lcDK0M.woff",
+      "sha256": "45e3a54e9c0dcd7df4d31b2f552bfda6a1185256476507fce9fe932ccdd8f19b",
+      "size": 20820
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-800-normal-9VU2lkaz.woff2",
+      "sha256": "de0cf03cc02a5a1c2f5b0fdc2cb7b6c4489e32034efc3bda75c5b9e9940fb255",
+      "size": 15792
+    },
+    {
+      "path": "dist/assets/nunito-latin-ext-800-normal-CM2qJFYy.woff",
+      "sha256": "9dcc04a2ba54c7aa809dcfc7ac911276c95139f090222492194d7db72210d98f",
+      "size": 21208
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-400-normal-BnU0WwCs.woff",
+      "sha256": "a073fe54fe3e499d3deb95f36c068d7e5436c7ea7c908faf09f9b70d14a19898",
+      "size": 8428
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-400-normal-BowtMkz5.woff2",
+      "sha256": "42d022d0990087422801964c9abe638f3bbd2a710025fa67996525f2f6ee866e",
+      "size": 6120
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-600-normal-BvXAhBOJ.woff",
+      "sha256": "a21cfa8f3f65509e8d57a7d9f3b7b6dc1224d2cbb2077a399a7e46f44dba46a1",
+      "size": 8476
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-600-normal-DzWqpV-L.woff2",
+      "sha256": "14a2cb2748f525ed29b06f7dae5bf7270026cd1aadabe2f62612431b342c61f4",
+      "size": 6168
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-700-normal-C-RkuVXY.woff2",
+      "sha256": "ba6e02b63af1c5966cd9d7783cf000f81d0c9dd19013f1b6e53267194f2a2cec",
+      "size": 5972
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-700-normal-ZI5H6tdD.woff",
+      "sha256": "0b97c2a1794a45da7613d5c46f9940f3184e1db2989d4c767846921b9a9ce89c",
+      "size": 8268
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-800-normal-C6BOy3TH.woff2",
+      "sha256": "eb810d06514e6572931f4c76723022114b78fb6a3a6cf6ad84bc150dc6ff0890",
+      "size": 6216
+    },
+    {
+      "path": "dist/assets/nunito-vietnamese-800-normal-qWtiVBHk.woff",
+      "sha256": "b0928080d32f59a7b9a56b79485f1e31f0c739ae96dafccc20d859f08cb4085e",
+      "size": 8500
+    },
+    {
+      "path": "dist/assets/pixelify-sans-cyrillic-400-normal-DN59EtPa.woff",
+      "sha256": "15ab6f0455a42d6310e49fd5fb41391f6cbb3bd116c7b418b865a1c893d71206",
+      "size": 4392
+    },
+    {
+      "path": "dist/assets/pixelify-sans-cyrillic-600-normal-C0a9XACL.woff",
+      "sha256": "7359059b21359dc03f6a86134a88c88a5171524d1c433a0a3f62463497e57942",
+      "size": 4448
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-400-normal-DZxf1tpg.woff2",
+      "sha256": "579ef39586fcd5defb817ff5d7716ee2169eb37b14109a90e659e0a9a3a5779e",
+      "size": 7716
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-400-normal-En2ys_zY.woff",
+      "sha256": "dca50c513262eff977a8ebe0fec4f2bd6350e6d2fe025a746e6ad3852ce9caa1",
+      "size": 10392
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-600-normal-BKSFyuAb.woff",
+      "sha256": "c35a7ff5c9b4fecb2394bb7d8f76bd81b1d52c51797ea4dde00f4a5064308406",
+      "size": 10924
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-600-normal-Zd7vuWGl.woff2",
+      "sha256": "ac09a4ccfbd3aab6570c5f8fdd2b5f467b265fa8f7b667906c8948369b7e9387",
+      "size": 8216
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-ext-400-normal-BLqhni0U.woff",
+      "sha256": "ab6f7da1c2ba72da1b33d97405fb7d97cd5c4c0c10b080f78b7ff05ba5d9ab17",
+      "size": 7404
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-ext-400-normal-BVwcVCgP.woff2",
+      "sha256": "617232adddebc627382dda65663ee10d20f91c6f91efbe2d8eeb9e3546c61966",
+      "size": 5296
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-ext-600-normal-Cd-TsHEx.woff2",
+      "sha256": "213bc38b761c7a3167b329ffa40d0a12e5d542c135ca2f8fd17cf190bb41c590",
+      "size": 5480
+    },
+    {
+      "path": "dist/assets/pixelify-sans-latin-ext-600-normal-DDXjrmc2.woff",
+      "sha256": "79fe800e1115d017e6f9c4c27dd718f933154f2fb867391e6a0c45a1a2ba42f4",
+      "size": 7620
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "c1868a33baf559c82a7ef31bb969e4c077b5c331461539bdf088c8f52f16d28b",
+      "size": 577
+    },
+    {
+      "path": "dist-electron/bootstrap.js",
+      "sha256": "e44fae4d510201eddf5bf3cf5c2128ed07f04c7fc389618641c7eee8162cd100",
+      "size": 2785
+    },
+    {
+      "path": "dist-electron/feed.js",
+      "sha256": "86c9dbe1b55635acd1da28cf5010d2fdc10ed92266792ca0e8bfe15e3e2f1dd6",
+      "size": 425
+    },
+    {
+      "path": "dist-electron/main.js",
+      "sha256": "137b2f1ecf339b6782261ed61fd708addfd443c0f2df85a1e2073f7237afae1f",
+      "size": 7624
+    },
+    {
+      "path": "dist-electron/preload.js",
+      "sha256": "ffb4dac76cefcfeb2663750ee526ecaffe42212116be6955cf08c6c29484b3a7",
+      "size": 2327
+    },
+    {
+      "path": "dist-electron/saves.js",
+      "sha256": "504b008d54700119b70437798dc857f07d5792b714e13bece000678199381565",
+      "size": 9412
+    },
+    {
+      "path": "dist-electron/updater.js",
+      "sha256": "5d9616010b06195a37c3c090c38975650cf28deebb8fffa745fce842c9a5481a",
+      "size": 5437
+    }
+  ]
+}
