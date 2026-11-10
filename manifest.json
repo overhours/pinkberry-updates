@@ -1,14 +1,9 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "date": "2026-11-10",
-  "title": "The big animal update",
+  "title": "Skip setting covers card flips",
   "notes": [
-    "Over 250 new animals! Piglets, ducklings, mice, shiba pups, birds, tiger cubs, giraffes, hippos, llamas, ponies, dinos, pufferfish, beavers, walruses, bunny loaves, kitty loaves, reindeer, and lots more cats, dogs, hamsters, bears, foxes and sea friends.",
-    "Most of what you roll is now an animal.",
-    "3 new rarities: Radiant (1 in 1,429), Astral (1 in 6,667) and Eternal (1 in 200,000).",
-    "Lola’s Plush Pets are now 1 in a million, so they’re still the rarest thing in the game.",
-    "New reveal for big finds: a 3D card flies out, flips through each rarity, cracks open and shows your find on a tilting card. Rarer finds get a longer build-up.",
-    "Uncommon, Rare and Epic finds now flip over like cards, and multi-rolls turn over one by one."
+    "Skip find animations now also skips the card flips. Anything at or below the rarity you picked lands face-up right away, and anything rarer still flips and gets its full reveal."
   ],
   "files": [
     {
@@ -92,14 +87,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-BL97NmHy.js",
-      "sha256": "50fed0dd39466bc3b5088499103cd0b2ae7c43a7ed4af0ec6cf76750372ece6d",
-      "size": 667128
-    },
-    {
       "path": "dist/assets/index-CCjuSg9n.css",
       "sha256": "d5b3d759468459b0384f69d1f2ebdfa24765c7f648db6686128fa7fa763fdcce",
       "size": 82158
+    },
+    {
+      "path": "dist/assets/index-Dhv17HAK.js",
+      "sha256": "fd24669aaeb7aef567c50fc8c669351b2fb9806ff50a2a9e8329450670ed7c36",
+      "size": 667592
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -353,7 +348,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "f412444aa61f021074d69d92fb45c74206b2e60b5b37da58730b1642b51c332a",
+      "sha256": "44669d19d92e2272da5f4af74d45a6eef86b3f110116a00c0ef18cec6477b2d4",
       "size": 577
     },
     {
