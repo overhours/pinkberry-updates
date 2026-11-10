@@ -1,11 +1,14 @@
 {
-  "version": "1.3.4",
+  "version": "1.4.0",
   "date": "2026-11-10",
-  "title": "Prettier tooltips",
+  "title": "The big animal update",
   "notes": [
-    "Hover tooltips are now cute pink pixel bubbles instead of plain white boxes.",
-    "Lola has a proper speech bubble with her name on it.",
-    "Cleared the extra animals out of the bottom-right corner so it's just Lola now."
+    "Over 250 new animals! Piglets, ducklings, mice, shiba pups, birds, tiger cubs, giraffes, hippos, llamas, ponies, dinos, pufferfish, beavers, walruses, bunny loaves, kitty loaves, reindeer, and lots more cats, dogs, hamsters, bears, foxes and sea friends.",
+    "Most of what you roll is now an animal.",
+    "3 new rarities: Radiant (1 in 1,429), Astral (1 in 6,667) and Eternal (1 in 200,000).",
+    "Lola’s Plush Pets are now 1 in a million, so they’re still the rarest thing in the game.",
+    "New reveal for big finds: a 3D card flies out, flips through each rarity, cracks open and shows your find on a tilting card. Rarer finds get a longer build-up.",
+    "Uncommon, Rare and Epic finds now flip over like cards, and multi-rolls turn over one by one."
   ],
   "files": [
     {
@@ -89,14 +92,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-AN3snsrr.css",
-      "sha256": "014746be77b1eef49f27323fc50f0553f46ad27f27326514af4ca915c7d943f1",
-      "size": 80545
+      "path": "dist/assets/index-BL97NmHy.js",
+      "sha256": "50fed0dd39466bc3b5088499103cd0b2ae7c43a7ed4af0ec6cf76750372ece6d",
+      "size": 667128
     },
     {
-      "path": "dist/assets/index-T57fbkNr.js",
-      "sha256": "8daed6a72e0717c844e745e1b19489ce6f1460916223a98ee2121f279b30ff9d",
-      "size": 618426
+      "path": "dist/assets/index-CCjuSg9n.css",
+      "sha256": "d5b3d759468459b0384f69d1f2ebdfa24765c7f648db6686128fa7fa763fdcce",
+      "size": 82158
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -350,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "39548b8854d53b2c374ffa38178a5a3dbab29a54677f54d0a6806431a5020396",
+      "sha256": "f412444aa61f021074d69d92fb45c74206b2e60b5b37da58730b1642b51c332a",
       "size": 577
     },
     {
