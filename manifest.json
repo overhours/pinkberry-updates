@@ -1,17 +1,17 @@
 {
-  "version": "1.6.1",
-  "date": "2026-11-10",
-  "title": "Less lag",
+  "version": "1.6.2",
+  "date": "2026-11-11",
+  "title": "New profile screen",
   "notes": [
-    "Inventory and Collection open right away now. They only draw the items you can see and add more as you scroll.",
-    "Item pictures load faster everywhere.",
-    "The moving backgrounds use a lot less of your computer, so the whole game should feel smoother.",
-    "Rare names like Mythical and Lola's Plush only shimmer on roll results and popups, or when you hover over them."
+    "The profile screen got a makeover. Each save is now a card with your avatar, background, rolls, collection progress, playtime and best find.",
+    "Pick a save with the arrow keys and press Enter to play. Lola says hi too.",
+    "Sell extras now goes all the way up to Eternal, not just Epic. Lola's Plush pets are never bulk-sold.",
+    "Fixed the Sell buttons jumping around on some items (like Holy Fawn) when you had a shiny or golden version, so you couldn't click them."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-DQt7HIJG.js",
-      "sha256": "1033eec8057ed96498187395db4201bfe6aa347e5d68ddda5ce25d6fbf020e4f",
+      "path": "dist/assets/browser-Dty0FxMG.js",
+      "sha256": "7fe1fb6dbe3cf0dd3b508dc0b9fa8c0b4ee57cbeb85267d9e692e1b3759c82bb",
       "size": 565
     },
     {
@@ -95,14 +95,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-8ACRlegO.js",
-      "sha256": "0b5a93702af2d3e46d620250a92f50840cca15f58527d09f76cc3a5210b27dfc",
-      "size": 803185
+      "path": "dist/assets/index-BBMPSzVF.js",
+      "sha256": "5642aa4f65a35e32aa0d244a099fc78e9ecbb2123608f564737e72eaf8f6e473",
+      "size": 812743
     },
     {
-      "path": "dist/assets/index-B7ry7PnS.css",
-      "sha256": "937d1cc5edc1b3b0f0e9f1f6d26b42c09e690d0bdf411424d235b6b48e34d72f",
-      "size": 87209
+      "path": "dist/assets/index-CURCOMQW.css",
+      "sha256": "f4a925c5a69be5bdf6d3429b59ab4be74cbd50edae49097a316d533cc623d36c",
+      "size": 88425
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -356,7 +356,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "b7a4aa3c476a58e57e4603c6bc23e67adee96645d63df798893d01c34d43879c",
+      "sha256": "f7492de0606f9a6d866cbc956edc65b2032f410a97674edf5f1ade4e33be71d5",
       "size": 675
     },
     {
@@ -381,8 +381,8 @@
     },
     {
       "path": "dist-electron/saves.js",
-      "sha256": "504b008d54700119b70437798dc857f07d5792b714e13bece000678199381565",
-      "size": 9412
+      "sha256": "753ea044bbe4be93b6c29a5452709a0c18d0c4b65f8ac2ef5958e02ed62fbed5",
+      "size": 9827
     },
     {
       "path": "dist-electron/updater.js",

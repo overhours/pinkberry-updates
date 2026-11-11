@@ -142,6 +142,11 @@ class SaveStore {
             totalRolls: Number(d?.stats?.totalRolls ?? 0) || 0,
             discoveries: d?.discoveries ? Object.keys(d.discoveries).length : 0,
             rebirths: Number(d?.rebirths ?? 0) || 0,
+            background: typeof d?.profile?.background === 'string' ? d.profile.background : undefined,
+            decoration: typeof d?.profile?.decoration === 'string' ? d.profile.decoration : undefined,
+            bestRarity: typeof d?.stats?.bestRarity === 'string' ? d.stats.bestRarity : null,
+            playtimeSec: Number(d?.stats?.playtimeSec ?? 0) || 0,
+            hearts: Number(d?.hearts ?? 0) || 0,
         };
     }
     // ───────── saves ─────────
