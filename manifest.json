@@ -1,16 +1,15 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "date": "2026-11-11",
-  "title": "Feedback and fairer leaderboards",
+  "title": "Pictures and videos in feedback",
   "notes": [
-    "New Help & feedback box in Settings. Use Report a bug or Suggest something to send a message straight to the developer. Bug reports can include your game version and window size so problems are easier to fix.",
-    "Leaderboards are fairer now. Scores that couldn't really be reached are cut down to what's possible, so edited saves can't take the top spots.",
-    "Rude names aren't allowed any more. They show up as Berry on the leaderboards."
+    "You can now add up to 3 pictures or videos to a bug report or suggestion. Click to add them, drag them in, or press Ctrl+V to paste a screenshot (up to 50 MB each).",
+    "Suggest something is simpler now: just your idea and a few words about it."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-CXINIvUp.js",
-      "sha256": "3e2bca34f995f7a3b00be43019e3fd74a6b26fb81758d43b40216345f4e92c63",
+      "path": "dist/assets/browser-BOvRjy8T.js",
+      "sha256": "b4ed6f22dd11f03a675511ac83e061b46a59bac2d787ded72197474df3a524de",
       "size": 565
     },
     {
@@ -94,14 +93,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-Brbdd3GE.css",
-      "sha256": "f29624ef51a0db38864e87b08ee854ad9aa5175e83a61b4cac3e17a85a6d26df",
-      "size": 89072
+      "path": "dist/assets/index-DIfVOPaH.css",
+      "sha256": "de0594b1d2e58476a614c757b8f9351b311479631c79b8d97fcc3beb0d928b5c",
+      "size": 89645
     },
     {
-      "path": "dist/assets/index-FGdi3J76.js",
-      "sha256": "589182169cb53dbd285399149b39ee1cd9fe4fb93bd7c6606f93c72911c90144",
-      "size": 835954
+      "path": "dist/assets/index-xHKIp-_D.js",
+      "sha256": "2401a616376b5ab9263f8239ba554041ddd71cb3844be186d237cff97bb17e88",
+      "size": 843463
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -355,8 +354,8 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "ec3d9be14de619b0125ff31fd55a83c0c8bc6ea422fd72f14dffd2556ff82ffd",
-      "size": 675
+      "sha256": "f3ced3c54324d4f60f2aa38fe5f1bcdbf4c81f330a14e5c5b54345223e922633",
+      "size": 749
     },
     {
       "path": "dist-electron/bootstrap.js",
