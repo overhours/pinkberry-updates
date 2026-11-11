@@ -1,14 +1,14 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "date": "2026-11-11",
-  "title": "Sell buttons fix",
+  "title": "Tip jar",
   "notes": [
-    "Fixed the Sell duplicates button jumping around when you own lots of something (10 or more), especially while auto-rolling or on smaller laptop screens. Lock and Sell 1 now sit side by side, with Sell duplicates on its own row underneath, so nothing moves."
+    "There's a new Support Pinkberry box at the bottom of Settings. If you'd like to say thanks, the Leave a tip button opens Ko-fi in your browser. It's completely optional, and the game stays free with nothing locked behind it."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-eNIUVaxy.js",
-      "sha256": "f9afe584b41e59be693928584cc4a42c18e53127d5ac283c2c1be2df10292e99",
+      "path": "dist/assets/browser-Bk_GCZrt.js",
+      "sha256": "7a2a95bc1d2296aaf1212879c6b1ad74d419287b7e2fca75d997e1bccf40f1de",
       "size": 565
     },
     {
@@ -92,14 +92,14 @@
       "size": 15456
     },
     {
+      "path": "dist/assets/index-BMBqwgtL.js",
+      "sha256": "cb04adc4430b07ec0b8606ceb552e0921d8f3538a893cf53435621c13efb40a2",
+      "size": 814316
+    },
+    {
       "path": "dist/assets/index-Bu-2FyA0.css",
       "sha256": "be47665c21e875fa5915fbb0aea4adff2a1c58c4e9aeffbaf144c8ed30aab510",
       "size": 88614
-    },
-    {
-      "path": "dist/assets/index-C_onn2Ab.js",
-      "sha256": "9033b0940e864ae3304d4f063e763878a9e0ff5725580e8f09c5c8b07368c7f2",
-      "size": 813263
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -353,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "2a79c7c7eccbcbbbe2938c99bf1358b5d0440a089c73a64d1dfbe8e39390edd7",
+      "sha256": "d4b3bbc2e7089ca9ac21386d9af6b034d1294835adf3944e0fc398986584d0bd",
       "size": 675
     },
     {
