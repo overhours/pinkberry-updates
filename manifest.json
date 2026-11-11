@@ -1,15 +1,14 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "date": "2026-11-11",
-  "title": "Pictures and videos in feedback",
+  "title": "Claim all",
   "notes": [
-    "You can now add up to 3 pictures or videos to a bug report or suggestion. Click to add them, drag them in, or press Ctrl+V to paste a screenshot (up to 50 MB each).",
-    "Suggest something is simpler now: just your idea and a few words about it."
+    "New Claim all button on Quests and Awards. It collects every finished reward at once and shows how many are waiting."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-BOvRjy8T.js",
-      "sha256": "b4ed6f22dd11f03a675511ac83e061b46a59bac2d787ded72197474df3a524de",
+      "path": "dist/assets/browser-BdL2hzRb.js",
+      "sha256": "83e7a1a0ca54dd45ec1347372d6d52f8793d5cfef659f7e3072166b51f45929b",
       "size": 565
     },
     {
@@ -93,14 +92,14 @@
       "size": 15456
     },
     {
+      "path": "dist/assets/index-CqDoqC2l.js",
+      "sha256": "e6f99df0ef25b4cc089d3d4c136330aded4bb65b090418a6433d6a35bf1ff735",
+      "size": 845681
+    },
+    {
       "path": "dist/assets/index-DIfVOPaH.css",
       "sha256": "de0594b1d2e58476a614c757b8f9351b311479631c79b8d97fcc3beb0d928b5c",
       "size": 89645
-    },
-    {
-      "path": "dist/assets/index-xHKIp-_D.js",
-      "sha256": "2401a616376b5ab9263f8239ba554041ddd71cb3844be186d237cff97bb17e88",
-      "size": 843463
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -354,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "f3ced3c54324d4f60f2aa38fe5f1bcdbf4c81f330a14e5c5b54345223e922633",
+      "sha256": "1b2b1252e6a08fdfda1f9f483f4e29d8bf796a8b4c713f0ab67ec0d6afb382db",
       "size": 749
     },
     {
