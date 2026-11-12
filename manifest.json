@@ -1,16 +1,16 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.0",
   "date": "2026-11-12",
-  "title": "Endless stardust perks",
+  "title": "Community Pets",
   "notes": [
-    "Eternal Luck, Golden Touch and Heart Savings no longer have a max level. Each new level costs more stardust than the last, so the higher ones take real work.",
-    "Heart Savings now gives a lot more hearts past level 5.",
-    "Levels you already bought stay the same and cost the same."
+    "New: Community Pets! Real pets from other players, turned into pixel art. Every roll has a 1 in 100,000 chance to find one. They're pinned at the top of your Collection and Inventory, can't be sold, and stay through rebirth.",
+    "Put your own pet (or your own plush) in the game for $2: get a pet code on Ko-fi, then go to Settings → Your pet in Pinkberry and send a photo. It gives no advantage.",
+    "New looks for everyone: Mint Macaron and Peach Sorbet themes, 3 new profile backgrounds, 3 new decorations, and outfits for Lola (in Settings)."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-CUEFqTf2.js",
-      "sha256": "1d21e9888da63647eb2e52b36e615f5aa2cca53733441e69016ff3c7ec9e9f9c",
+      "path": "dist/assets/browser-B2wR76qs.js",
+      "sha256": "cdc08f09e1b4424f130fad79ed4ce56260d6933c5c6d3af1ad321a66bbc333a3",
       "size": 565
     },
     {
@@ -94,14 +94,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-DIfVOPaH.css",
-      "sha256": "de0594b1d2e58476a614c757b8f9351b311479631c79b8d97fcc3beb0d928b5c",
-      "size": 89645
+      "path": "dist/assets/index-BBSFHBoB.css",
+      "sha256": "50bfa39d0401f5cb4e513fb7b73ae3a69e01d9e1159f61151ae29844b8c38bdb",
+      "size": 90011
     },
     {
-      "path": "dist/assets/index-of_g9k3u.js",
-      "sha256": "02310c36cb1da864491a13ce6d86602210171962d2a0c6287ee8313ed4e76587",
-      "size": 846658
+      "path": "dist/assets/index-D4PS4fMf.js",
+      "sha256": "792f0b01844e0681e54db3a1c7210650288a6542a6a74b75688ea6f681eca2c4",
+      "size": 873063
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -355,7 +355,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "6974ff036a42b2fe1ad33c4077d4a1dea8d1c7e4c2c176395ea6cd2a03074ba1",
+      "sha256": "2e9cb9cfe1bf21e3d1156de7365cb39fe494487e69c5fecc1be165936c4f8f1f",
       "size": 749
     },
     {
