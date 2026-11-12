@@ -1,14 +1,16 @@
 {
-  "version": "1.7.2",
-  "date": "2026-11-11",
-  "title": "Claim all",
+  "version": "1.7.3",
+  "date": "2026-11-12",
+  "title": "Endless stardust perks",
   "notes": [
-    "New Claim all button on Quests and Awards. It collects every finished reward at once and shows how many are waiting."
+    "Eternal Luck, Golden Touch and Heart Savings no longer have a max level. Each new level costs more stardust than the last, so the higher ones take real work.",
+    "Heart Savings now gives a lot more hearts past level 5.",
+    "Levels you already bought stay the same and cost the same."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-BdL2hzRb.js",
-      "sha256": "83e7a1a0ca54dd45ec1347372d6d52f8793d5cfef659f7e3072166b51f45929b",
+      "path": "dist/assets/browser-CUEFqTf2.js",
+      "sha256": "1d21e9888da63647eb2e52b36e615f5aa2cca53733441e69016ff3c7ec9e9f9c",
       "size": 565
     },
     {
@@ -92,14 +94,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-CqDoqC2l.js",
-      "sha256": "e6f99df0ef25b4cc089d3d4c136330aded4bb65b090418a6433d6a35bf1ff735",
-      "size": 845681
-    },
-    {
       "path": "dist/assets/index-DIfVOPaH.css",
       "sha256": "de0594b1d2e58476a614c757b8f9351b311479631c79b8d97fcc3beb0d928b5c",
       "size": 89645
+    },
+    {
+      "path": "dist/assets/index-of_g9k3u.js",
+      "sha256": "02310c36cb1da864491a13ce6d86602210171962d2a0c6287ee8313ed4e76587",
+      "size": 846658
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -353,7 +355,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "1b2b1252e6a08fdfda1f9f483f4e29d8bf796a8b4c713f0ab67ec0d6afb382db",
+      "sha256": "6974ff036a42b2fe1ad33c4077d4a1dea8d1c7e4c2c176395ea6cd2a03074ba1",
       "size": 749
     },
     {
