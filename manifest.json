@@ -1,16 +1,14 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "date": "2026-11-12",
-  "title": "Community Pets",
+  "title": "Cuter Community Pets",
   "notes": [
-    "New: Community Pets! Real pets from other players, turned into pixel art. Every roll has a 1 in 100,000 chance to find one. They're pinned at the top of your Collection and Inventory, can't be sold, and stay through rebirth.",
-    "Put your own pet (or your own plush) in the game for $2: get a pet code on Ko-fi, then go to Settings → Your pet in Pinkberry and send a photo. It gives no advantage.",
-    "New looks for everyone: Mint Macaron and Peach Sorbet themes, 3 new profile backgrounds, 3 new decorations, and outfits for Lola (in Settings)."
+    "Community Pets now look like the rest of the game. When you add your pet, pick what animal it is (22 to choose from), and it's drawn as a Pinkberry sprite in your pet's colours. The colours come from your photo, and you can tweak them."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-B2wR76qs.js",
-      "sha256": "cdc08f09e1b4424f130fad79ed4ce56260d6933c5c6d3af1ad321a66bbc333a3",
+      "path": "dist/assets/browser-D_RrgL1q.js",
+      "sha256": "6c643e2273f6789e447bf9d746c3a77b2a19db29f9b2d266880c1b87b5c80d2a",
       "size": 565
     },
     {
@@ -94,14 +92,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-BBSFHBoB.css",
-      "sha256": "50bfa39d0401f5cb4e513fb7b73ae3a69e01d9e1159f61151ae29844b8c38bdb",
-      "size": 90011
+      "path": "dist/assets/index-CtpWzrwo.css",
+      "sha256": "330bdad294652018c72969b9bd87777f0d26513098648de180e5aa5a4d417772",
+      "size": 90103
     },
     {
-      "path": "dist/assets/index-D4PS4fMf.js",
-      "sha256": "792f0b01844e0681e54db3a1c7210650288a6542a6a74b75688ea6f681eca2c4",
-      "size": 873063
+      "path": "dist/assets/index-DqnU-Z8n.js",
+      "sha256": "f89ae865bd68849c7b8be24b3ee97cf52ea947e3152e7edf64918381aa151c2f",
+      "size": 875725
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -355,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "2e9cb9cfe1bf21e3d1156de7365cb39fe494487e69c5fecc1be165936c4f8f1f",
+      "sha256": "cef54f289dff9d95d3aa711ebaec140b8f5257500aa44601eaaf21d7a5d32ed7",
       "size": 749
     },
     {
