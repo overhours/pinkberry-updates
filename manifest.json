@@ -1,14 +1,14 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.2",
   "date": "2026-11-12",
-  "title": "Cuter Community Pets",
+  "title": "Hand-drawn Community Pets",
   "notes": [
-    "Community Pets now look like the rest of the game. When you add your pet, pick what animal it is (22 to choose from), and it's drawn as a Pinkberry sprite in your pet's colours. The colours come from your photo, and you can tweak them."
+    "Every Community Pet is now drawn by hand as a Pinkberry sprite to look like the real pet in the photo, with its markings, ears and colours. The animal you pick when sending your pet is just a rough preview."
   ],
   "files": [
     {
-      "path": "dist/assets/browser-D_RrgL1q.js",
-      "sha256": "6c643e2273f6789e447bf9d746c3a77b2a19db29f9b2d266880c1b87b5c80d2a",
+      "path": "dist/assets/browser-CcWwZsQU.js",
+      "sha256": "ec8f35d6a63b343fa499a99474c3380c39061c3f8ebc22dbb4a927b4e97ec4aa",
       "size": 565
     },
     {
@@ -92,14 +92,14 @@
       "size": 15456
     },
     {
-      "path": "dist/assets/index-CtpWzrwo.css",
-      "sha256": "330bdad294652018c72969b9bd87777f0d26513098648de180e5aa5a4d417772",
-      "size": 90103
+      "path": "dist/assets/index-B2T8ZrvB.js",
+      "sha256": "23ae13d13296f397d0f5a43beaa8c6a463290f780adfdc93759caa16e116a198",
+      "size": 878631
     },
     {
-      "path": "dist/assets/index-DqnU-Z8n.js",
-      "sha256": "f89ae865bd68849c7b8be24b3ee97cf52ea947e3152e7edf64918381aa151c2f",
-      "size": 875725
+      "path": "dist/assets/index-BuRVJfWZ.css",
+      "sha256": "2bf0433b933d872d22bff33e00ec6f578e3f84c7383287fd77e29365ef86a55f",
+      "size": 90186
     },
     {
       "path": "dist/assets/nunito-cyrillic-400-normal-CMsAdKHI.woff2",
@@ -353,7 +353,7 @@
     },
     {
       "path": "dist/index.html",
-      "sha256": "cef54f289dff9d95d3aa711ebaec140b8f5257500aa44601eaaf21d7a5d32ed7",
+      "sha256": "f97fd4d21a9f3988b870543217ca7d4b59662e4e158b29243a6062ffeab760e5",
       "size": 749
     },
     {
